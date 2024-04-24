@@ -1,10 +1,10 @@
-# h1 **COMMANDES GITS APPRISES**
+#  **COMMANDES GITS APPRISES**
 
-## h2 1 *INTRODUCTION*
+##  1 *INTRODUCTION*
 
 *au fur et en mesure j'ai pu prendre compte de l'existence de plusieurs balises permetteant de prendre controle de **GIT** et d'interagir avec **GITHUB** je leurs aient subdiviser en plusieurs classe*
 
-## h2 2 ***LES BALISES DE CLASSE 1 OU BALISES DE PARAMETRAGE ET DE CONFIGURATION***
+##  2 ***LES BALISES DE CLASSE 1 OU BALISES DE PARAMETRAGE ET DE CONFIGURATION**
 
 Liste:
 1. ***cd***: cette commande linux permet de se deplacer dans les dossiers de votre machine
@@ -15,7 +15,7 @@ Liste:
 6. ***git status***: permet de controler le status d'un fichier
 7. ***git commit -m***: permet d'ajouter un ou plusieurs fichiers indexer a notre depot local
 
-## h2 ***LES BALISES DE CLASSE 2 OU BALISES D'INTERRACTION ENTRE LE DEPOT LOCAL ET DISTANT***
+##  ***LES BALISES DE CLASSE 2 OU BALISES D'INTERRACTION ENTRE LE DEPOT LOCAL ET DISTANT**
 
 Listes:
 1. ***git push***: cette commande a pour but de copier les travail de l'utilisateur du depot local vers le depot distant
@@ -25,10 +25,10 @@ Listes:
 5. ***git branch -M "nom de la branche"***: permet de changer de branche
 6. ***git check out***: permet de basculer entre les branches creer avec (git granch)
 
-## h2 ***LES BALISES DE CLASSE 3 OU BALISES DE CORRECTIONS D'HISTORIQUE***
+##  **LES BALISES DE CLASSE 3 OU BALISES DE CORRECTIONS D'HISTORIQUE**
 
 Listes: 
 1. ***git rebase***: permet de reecrire l'historique de la branche qu'on veux rebase 
 2. ***git stash***: permet de mettre de cote notre code si on decide amorcer un autre code 
 3. ***git bisect***: permet d'identifier les commits erroner
-4. ***git stash pop***: permet de reprendre le travail apres avoir regler un probleme
+4. ***git stash pop***: permet de reprendre le travail apres avoir regler un probleme 
