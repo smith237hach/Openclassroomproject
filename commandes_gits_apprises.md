@@ -10,6 +10,7 @@ Liste:
 5. ***git add***: cette commande permet d'ajouter un fichier a notre depot local une fois modification terminer afin de pouvoir s'y deplacer a l'interieur 
 6. ***git status***: permet de controler le status d'un fichier
 7. ***git commit -m***: permet d'ajouter un ou plusieurs fichiers indexer a notre depot local
+8. ***git branch -D "name of the branch***: permet de supprimer une branche de notre choix ou creer pa erreur dans le depot local
 
 ##  B => **LES BALISES DE CLASSE 2 OU BALISES D'INTERRACTION ENTRE LE DEPOT LOCAL ET DISTANT**
 
