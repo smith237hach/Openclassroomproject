@@ -1,3 +1,5 @@
-## 25_04_2024
+# INTEGRATON DE PHP DANS HTML
 
-php
+## Listes:
+1.  <?php et ?>:  Le code php contenu dans le code HTML doit être délimité par ces 
+balises
