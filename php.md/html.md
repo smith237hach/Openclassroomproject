@@ -19,3 +19,9 @@
 18. <SUB>...</SUB>: Texte en indice
 19. <SUP>...</SUP>: Texte en exposant
 20. <U>...</U>: texte souligne 
+21. <ol></ol>: liste decroissante
+22. <ul></ul>: liste croissante
+23. <form></form>: fonction assurant la prise en charge des balises permettant la realisation d'un formulaire 
+24. <input></input>: est une commande d'insertion
+25. <select></select>: est une fonction qui permet de faire un choix selon une liste 
+26. <option></option>: est une fonction qui permet d'utiliser son contenu comme option dans l'input
