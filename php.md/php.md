@@ -1,8 +1,8 @@
 # **PHP**
-ce language est vraiment tres ouvert sur beaucoup de debouches. 
+ Ce language est vraiment tres ouvert sur beaucoup de debouches. 
 
- il permet entre autre de concevoir un code executable sur le serveur. 
+ Il permet entre autre de concevoir un code executable sur le serveur. 
  
- il transferer au navigateur sous forme de code html brut pour pouvoir etre compris par ce dernier. 
+ Il transferer au navigateur sous forme de code html brut pour pouvoir etre compris par ce dernier. 
  
- comme le html et le css, le **PHP** lui aussi a une etension qui es << **.CSS** >>. 
+ Comme le html et le css, le **PHP** lui aussi a une extension qui es << **.CSS** >>. 
