@@ -26,3 +26,32 @@ j'ai pu observer que on distinguais plusieurs type de commentaires en **PHP** to
 Un nom de variable ne peut contenir que des caractères alphanumériques et des traits de soulignement (A-z, 0-9 et _ )
 
 4. Les noms de variables sont sensibles à la casse (et sont deux variables différentes)
+
+j'ai pu remarquer qu'on avais plusieurs type de donnees pris en charge par **PHP**  a savoir:
+
+1. Corde
+2. Entier
+3. Float (nombres à virgule flottante - également appelés doubles)
+4. Booléen
+5. Tableau
+6. Objet
+7. ZÉRO
+8. Ressource.
+
+#### GESTION DE FORMULAIRE PHP
+ j'ai pu constater que en conception de formulaire le php est tres important.
+ 
+ exple: <!DOCTYPE HTML>
+<html>  
+<body>
+
+<form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
+
+dans cette exemple je viens de taper du code html associer a du php pour faire ressortir cette petite partie de formulaire nous permettant de voir que et de comprendre que le php et le html se compense. alors
